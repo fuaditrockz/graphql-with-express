@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Mary",
+      "lastName": "Jane",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    { "id": "1", "name": "PT Tele Digital Kreatif", "description": "Telecreative is a world-class web design and digital product development agency based in Jakarta, Indonesia. We design world-class digital experiences for forward thinking startups and enterprises. Specialising in producing simple, helpful, and remarkable design. Telecreative believe in design that speaks for itself." },
+    { "id": "2", "name": "PT Gairah Kreatifitas Indonesia", "description": "What I find remarkable is that this text has been the industry's standard dummy text ever since some printed in the 1500s took a galley of type and scrambled it to make a type specimen book; it has survived not only four centuries of letter-by-letter resetting but even the leap into electronic typesetting, essentially unchanged except for an occasional 'ing' or 'y' thrown in. It's ironic that when the then-understood Latin was scrambled, it became as incomprehensible as Greek; the phrase 'it's Greek to me' and 'greeking' have common semantic roots!" }
+  ]
+}

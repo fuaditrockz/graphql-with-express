@@ -1,0 +1,19 @@
+{
+  "name": "graphql-with-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js",
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Fuadit Muhammad",
+  "license": "Telecreative",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "json-server": "^0.12.1"
+  }
+}
