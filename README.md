@@ -30,4 +30,4 @@ $ npm run dev:server
 
 Note: 4 dan 5 buka dua tab terminal. 
 
-Author: Fuadit Muhammad
+Author: <b>Fuadit Muhammad</b>
